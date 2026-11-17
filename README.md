@@ -34,9 +34,3 @@ A weather forecast web application that lets users search for a location and vie
 ## API Configuration
 
 This project uses the OpenWeatherMap API to retrieve weather information. Create an API key through the OpenWeatherMap website and configure it in the project before running the app.
-
-**Note:** The screenshot shows an API key error, so live weather data will not load until a valid API key is configured.
-
-## Repository
-
-[View Weather App on GitHub](https://github.com/mohitsingh40/Weather-App)
